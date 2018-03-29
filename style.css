@@ -16,7 +16,7 @@ body{
           background-color: black;
           }
   .a{
-
+     border-style: solid;
   	padding: 10px;
   }
   .b{
