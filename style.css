@@ -1,6 +1,17 @@
-body{background-color: grey;}
+body{
+	background-color: grey;
+    }
 .topic{color: red;
       border-style: double;
       border-width: 5px;
       border-color: green;
      }
+ .class{
+        border-style: dotted;
+        border-color: red;
+         
+
+
+
+
+        }
